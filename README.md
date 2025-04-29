@@ -48,7 +48,7 @@ Cores escolhidas para o APP:
 <H1> REGRAS DE NEGÓCIOS PARA DADOS, VIEWS E ACTIONS </H1>
 #ACTIONS
 
-Actions Edit, Delet ficam configuradas como HIDE.
+**Actions Edit, Delet ficam configuradas como HIDE.**
 
 ACTION ADD
 
