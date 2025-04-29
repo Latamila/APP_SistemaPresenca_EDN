@@ -73,6 +73,13 @@ CodigoSecreto
 
 ![image](https://github.com/user-attachments/assets/2c7dbd65-e7b9-4c6f-bb4e-d3e2a49d70ca)
 
+VIEWS
+
+Registrar Presença
+
+![image](https://github.com/user-attachments/assets/2e0af59b-91b9-42e5-984e-13ea49aa20c8)
+
+
 
 
 
@@ -100,8 +107,15 @@ TESTE DE USABILIDADE COM OBSERVABILIDADE COM 53 USUÁRIOS (28/04)
 
 * Passou no teste.
 
+- Aplicativo deve ter botão de checkout, na tela de Registro de presença, apos SE registrar e não deve mostrar o botão de Add, para usuários já logados ou fora do período estipulado.
   
+  CHECKIN
+  
+![image](https://github.com/user-attachments/assets/c9016b86-6536-412e-a512-1d72f119104b)
 
+CHECKOUT
+
+![image](https://github.com/user-attachments/assets/d02d6e17-05b3-421f-85de-ed74f2157c3f)
 
     
 <h1> ENCERRAMENTO </h1>
