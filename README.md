@@ -135,7 +135,10 @@ O aplicativo deve ter descritivo, por exemplo: hora do checkin: 19:10:00, em vez
 
 Pedido dos Stackholders
 ---
-
+Foi pedido que tivesse uma área para feedback dos Professores direto no APP. 
 
 ![image](https://github.com/user-attachments/assets/62f53c10-52d6-4f11-abd0-27d662f22177)
+
+![image](https://github.com/user-attachments/assets/e9712e76-bc02-4b82-8b32-c30753079826)
+
 
