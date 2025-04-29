@@ -136,7 +136,6 @@ O aplicativo deve ter descritivo, por exemplo: hora do checkin: 19:10:00, em vez
 Pedido dos Stackholders
 ---
 
-![image](https://github.com/user-attachments/assets/95b65770-2b72-4660-bdc4-976e6204c763)
 
 ![image](https://github.com/user-attachments/assets/62f53c10-52d6-4f11-abd0-27d662f22177)
 
