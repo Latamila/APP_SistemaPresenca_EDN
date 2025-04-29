@@ -80,7 +80,7 @@ Registrar Presença
 ![image](https://github.com/user-attachments/assets/2e0af59b-91b9-42e5-984e-13ea49aa20c8)
 
 
-
+<h3> Essa mesma regra deve ser aplicada tanto para a tela de REGISTRAR PRESENÇA, como para ADD. Assim como deve ser configurado com os horarios para FAZER CHECKOUT  e sua ACTION CHECKOUT. </h3>
 
 
 
