@@ -38,6 +38,43 @@ Cores escolhidas para o APP:
 
 ![image](https://github.com/user-attachments/assets/6a581340-cbe3-40b0-b701-36553bfae098)
 
+![image](https://github.com/user-attachments/assets/28571c5a-d7fa-40e9-9b4c-e6377f106877)
+
+![image](https://github.com/user-attachments/assets/013a8756-8613-47a3-8222-8506131fc662)
+
+<H1> REGRAS DE NEGÓCIOS PARA DADOS, VIEWS E ACTIONS </H1>
+#ACTIONS
+
+Actions Edit, Delet ficam configuradas como HIDE.
+
+ACTION ADD
+
+![image](https://github.com/user-attachments/assets/62426926-bae7-42db-b724-95012d06cc54)
+
+ACTION CHECKOUT
+
+![image](https://github.com/user-attachments/assets/24fd6f32-9516-43dd-9c9c-c1208caf18df)
+
+#DADOS
+
+Coluna virtual TempoEmSala
+
+![image](https://github.com/user-attachments/assets/5adbf5ee-524e-4652-84dd-581556dcad39)
+
+Email
+
+![image](https://github.com/user-attachments/assets/59b23e46-b7fe-4f0a-8eba-5a067f0e6954)
+
+CodigoInserido
+
+![image](https://github.com/user-attachments/assets/141de76a-1e99-4df3-b08f-d103aacdda65)
+
+CodigoSecreto
+
+![image](https://github.com/user-attachments/assets/2c7dbd65-e7b9-4c6f-bb4e-d3e2a49d70ca)
+
+
+
 
 
 
