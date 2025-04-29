@@ -31,12 +31,24 @@ O aluno não deve ver o botão de ADD, novamente,  após fazer o checkin.
 
 <h1> EXECUÇÃO </h1>
 
+Cores escolhidas para o APP:
+
+#94D2BD
+#0A9396
+
+![image](https://github.com/user-attachments/assets/6a581340-cbe3-40b0-b701-36553bfae098)
+
+
+
+
 <h1> MONITORAMENTO </h1>
 
 TESTE DE USABILIDADE COM OBSERVABILIDADE COM 53 USUÁRIOS (28/04)
 ---
 - Captura de checkin, checkout e tempo de tela
+  
 ![image](https://github.com/user-attachments/assets/a3912324-5971-4611-b136-361990c3bd3e)
+
 * Passou no teste. 
 
 - O Aluno não deve ver o botão após fazer o checkin na aula.
@@ -44,6 +56,16 @@ TESTE DE USABILIDADE COM OBSERVABILIDADE COM 53 USUÁRIOS (28/04)
  
 - A tela de registrar presença só deve aparecer para o usuário no horário estipulado.
   * Passou no teste da tela registrar presença aparecer no horário estipulado, porém o botão ADD ficou disponível na tela principal. Assim os alunos puderam fazer o checkin mais de uma vez, inclusive.
+
+- Aplicativo deve ter na tela de Detalhes, o descritivo sobre cada informação fornecida.
+  
+![image](https://github.com/user-attachments/assets/2d6970d9-5f50-4cd7-bd39-dc8b96b1e5a8)
+
+* Passou no teste.
+
+  
+
+
     
 <h1> ENCERRAMENTO </h1>
 
