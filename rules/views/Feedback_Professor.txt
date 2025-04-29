@@ -1,0 +1,9 @@
+FILTER(
+      "presenca",
+      AND(
+        [Email] = USEREMAIL(),
+        [Data] = TODAY(),
+        [Id] = [Id]
+      )
+    )
+
