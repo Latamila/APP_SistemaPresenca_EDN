@@ -91,6 +91,11 @@ Registrar Presença
 <h1> MONITORAMENTO </h1>
 
 TESTE DE USABILIDADE COM OBSERVABILIDADE COM 53 USUÁRIOS (28/04)
+
+Foi realizado:
+
+**Testes de Concorrência**: envolve a simulação de um grande número de usuários acessando o sistema ao mesmo tempo. O objetivo é identificar problemas de concorrência, como condições de corrida, ou seja, conflitos no acesso de recursos compartilhados do sistema entre um ou mais usuários.
+
 ---
 - Captura de checkin, checkout e tempo de tela
   
