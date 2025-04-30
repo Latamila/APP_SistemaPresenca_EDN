@@ -123,6 +123,13 @@ CHECKOUT
     
 <h1> ENCERRAMENTO </h1>
 
+Foi realizado:
+
+**Teste de Sistema** : verifica o sistema como um todo, analisando o comportamento geral e seus recursos. É realizado por uma equipe de testes após a codificação completa do sistema. É realizado para verificar se o sistema atende aos requisitos definidos.
+
+**Teste de Aceitação**: verifica o sistema como um todo, sob o ponto de vista do usuário final, concentrando-se na validação dos requisitos. É realizado pelo usuário. O foco é verificar se o sistema está pronto para ser entregue e usado.
+
+
 LIÇÕES APRENDIDAS
 ---
 Deve-se fazer mais testes de usabilidade com usuários in loco, pois o que se enxerga no ambiente de desenvolvimento, às vezes, não representa o comportamento do aplicativo, sendo acessado por várias pessoas ao mesmo tempo, em geografias, dispositivos e variáveis tão diferentes. 
@@ -145,4 +152,19 @@ Foi pedido que tivesse uma área para feedback dos Professores direto no APP.
 
 ![image](https://github.com/user-attachments/assets/e9712e76-bc02-4b82-8b32-c30753079826)
 
+<h1> PLANILHA GOOGLE SHEETS</h1>
 
+Planilha apresentava comportamento inadequado ao mudar de lugar seu cabeçalho com  o nome das colunas. 
+
+Para resolver isso: 
+
+![image](https://github.com/user-attachments/assets/08da54c0-2d78-4c17-bdb5-bfdfec8e5bfa)
+
+![image](https://github.com/user-attachments/assets/c76a6af9-1962-4522-90c9-775fa0019ebc)
+
+![image](https://github.com/user-attachments/assets/131cd246-c931-47f9-95d9-3b53f03e50a1)
+
+
+Foi realizado:
+
+**Teste de Regressão**: verifica o sistema após alterações, como correções de bugs ou implementação de novas funcionalidades. É realizado pela equipe de testes.
